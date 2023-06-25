@@ -1,6 +1,8 @@
 
 ## Key Features
-
+- Lê Thanh Lâm
+- Đào Võ Hữu Hiệp
+- Hoàng Anh Khoa
 * LivePreview - Make changes, See changes
   - Instantly see what your Markdown documents look like in HTML as you create them.
 * Sync Scrolling
